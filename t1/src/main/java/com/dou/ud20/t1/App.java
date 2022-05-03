@@ -1,13 +1,15 @@
 package com.dou.ud20.t1;
 
 /**
- * Hello world!
- *
+ * @author Octavio Bernal Vilana
+ * @author Josep Oriol López Bosch
+ * @author David Dalmau Dieguez
+ * 
+ * @version 0.0.1
+ * @date 03/05/2022
  */
+
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+
 }
