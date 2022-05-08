@@ -21,15 +21,13 @@ Este ejercicio ha sido realizado por los miembros del equipo 1. Dicho equipo est
   [- Octavio Bernal](https://github.com/OctavioBernalGH)<br>
   [- David Dalmau](https://github.com/DavidDalmauDieguez)
 
-En este ejercicio se creará una aplicación con interfaz gráfica en la cual se construirá una ventana con un título y marco con los controles básicos, es decir, restaurar, maximizar y cerrar. Al pulsar sobre el botón cerrar se deberá cerrar completamente la aplicación.
-
-Esta ventana contendrá una etiqueta y el usuario debe poder cambiar su tamaño.
+<p align="justify">En este ejercicio se creará una aplicación con interfaz gráfica en la cual se construirá una ventana con un título y marco con los controles básicos, es decir, restaurar, maximizar y cerrar. Al pulsar sobre el botón cerrar se deberá cerrar completamente la aplicación. Esta ventana contendrá una etiqueta y el usuario debe poder cambiar su tamaño.</p>
 
 En la siguiente imagen se puede observar de forma visual las diferentes funcionalidades.
 
 ![UD20-T1](https://user-images.githubusercontent.com/103035621/167310271-55fdfed6-2ad7-4682-94d1-44ec1a0fc808.png)
 
-Para realizar este ejercicio se utilizará solamente una clase llamada View. En dicha clase se definirán los componentes que formarán la vista junto con su comportamiento utilizando los diferentes actionListeners. En este caso se utiliza solamente un ActionListener que escuchará los eventos de cerrar y cambiar pantalla.
+<p align="justify"> Para realizar este ejercicio se utilizará solamente una clase llamada View. En dicha clase se definirán los componentes que formarán la vista junto con su comportamiento utilizando los diferentes actionListeners. En este caso se utiliza solamente un ActionListener que escuchará los eventos de cerrar y cambiar pantalla.</p>
 
 <details>
   <summary>En este spoiler se muestra el código creado en la Clase View.java</summary>
